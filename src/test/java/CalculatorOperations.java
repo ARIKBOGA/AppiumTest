@@ -1,4 +1,4 @@
-import com.cydeo.utilities.Hooks;
+import com.cydeo.utils.Hooks;
 import io.appium.java_client.MobileBy;
 import io.appium.java_client.MobileElement;
 import org.junit.jupiter.api.Assertions;
